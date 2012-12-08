@@ -3,4 +3,4 @@
 Place it in Qt\ Creator.app/Contents/Resources/schemes/
 ```
 # Screenshot example.
-:![Screenshot](http://github.com/airamrguez/QtCreatorTheme/blob/master/example.png):
+:![Screenshot](http://github.com/airamrguez/QtCreatorTheme/raw/master/example.png):
