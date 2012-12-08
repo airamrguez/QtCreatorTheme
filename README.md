@@ -3,4 +3,4 @@
 Place it in Qt\ Creator.app/Contents/Resources/schemes/
 ```
 # Screenshot example.
-![Screenshot](example.png "Screenshot")
+![Screenshot](/example.png "Screenshot")
